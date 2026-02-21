@@ -8,14 +8,23 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Algorithm
 1. Initialize weights and bias
+
 2. Choose a loss function
+
 3. Set hyperparameters (learning rate, regularization, etc.)
+
 4.Shuffle training data
+
 5.For each epoch:
+
 6.For each training sample:
+
 7.Compute gradient of loss
+
 8.Update weights using gradient descent
+
 9.Apply regularization
+
 10.Check for convergence or stop after max iterations
 ## Program:
 ```
